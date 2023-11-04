@@ -1,0 +1,4 @@
+Nombre del estudiante: Kevin
+Notas: 98.0, 91.0, 90.0, 89.0
+Promedio: 92.0
+
